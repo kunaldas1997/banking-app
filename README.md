@@ -1,16 +1,26 @@
 # banking
 
-A new Flutter project.
+A Dribbble Inspired UI for a Banking/Transaction App
 
-## Getting Started
+## Flutter Version
 
-This project is a starting point for a Flutter application.
+Master Channel
+V1.18.0-7.0.pre.44
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1. Most widgets are custom created
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Limitations
+
+1. No real Data
+2. Hard Coded Data
+3. Not Perfect for all Mobile
+
+## Emulator used
+
+Android x86 Nexus 5 running Android 10.
+
+![Alt text](screenshots\Screenshot_1587634811.png?raw=true "Main")
+![Alt text](screenshots\Screenshot_1587634821.png?raw=true "Transaction Bottom Sheet")
