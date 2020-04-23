@@ -2,7 +2,7 @@
 
 A Dribbble Inspired UI for a Banking/Transaction App
 
-##Link 
+## Link 
 -> https://dribbble.com/shots/10847354-Money-Management
 
 ## Flutter Version
@@ -26,8 +26,8 @@ V1.18.0-7.0.pre.44
 Android x86 Nexus 5 running Android 10.
 
 ## Main Page 
-![Screenshot](screenshots/Screenshot_1587634811.png=350x450)
+![Screenshot](screenshots/Screenshot_1587634811.png?=350x450)
 
 
 ## Transaction Bottom Sheet
-![Screenshot](screenshots/Screenshot_1587634821.png=350x450)
+![Screenshot](screenshots/Screenshot_1587634821.png?=350x450)
