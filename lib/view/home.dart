@@ -11,26 +11,26 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: SafeArea(
-        child: Padding(
-          padding: EdgeInsets.symmetric(horizontal: 5),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.center,
+        child: SingleChildScrollView(
+          child: Padding(
+            padding: EdgeInsets.symmetric(horizontal: 5),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.center,
 //            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: <Widget>[
-              SizedBox(
-                height: 20
-              ),
-              AppBarWidget(),
-              SizedBox(
-                height: 10,
-              ),
-              ExpenseWidget(),
-              Cards(),
-              SizedBox(
-                height: 30,
-              ),
-              Transactions(),
-            ],
+              children: <Widget>[
+                SizedBox(height: 20),
+                AppBarWidget(),
+                SizedBox(
+                  height: 10,
+                ),
+                ExpenseWidget(),
+                Cards(),
+                SizedBox(
+                  height: 30,
+                ),
+                Transactions(),
+              ],
+            ),
           ),
         ),
       ),
