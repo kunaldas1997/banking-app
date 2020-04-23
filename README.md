@@ -22,5 +22,5 @@ V1.18.0-7.0.pre.44
 
 Android x86 Nexus 5 running Android 10.
 
-![Screenshot](screenshots/Screenshot_1587634811.png?=350x450 title="Main" )
-![Screenshot](screenshots/Screenshot_1587634821.png?=350x450 title="Transaction Bottom Sheet")
+![Screenshot](screenshots/Screenshot_1587634811.png?=350x450)
+![Screenshot](screenshots/Screenshot_1587634821.png?=350x450)
